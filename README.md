@@ -34,8 +34,8 @@ xgb - Training error much lower than validation error
  - MLflow Tracking -
 4ვე ექსპერიმენტი დალოგილი მაქვს MLflow-ზე : [ https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D ]
 
-პარამეტრები: მოდელის ტიპი, Feature შერჩევის მეთოდი, საუკეთესო სკალერი.
-მეტრიკები: ტრენინგის/ვალიდაციის/ტესტის RMSE და მათ შორის ცდომილებები.
+ - პარამეტრები -  მოდელის ტიპი, Feature შერჩევის მეთოდი, საუკეთესო სკალერი.
+ - მეტრიკები: ტრენინგის/ვალიდაციის/ტესტის RMSE და მათ შორის ცდომილებები.
 
  - ლინკები -
 Linear - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/8f875aac68bb4d5a9563f1db7329c782 
