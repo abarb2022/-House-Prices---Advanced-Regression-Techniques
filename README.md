@@ -38,10 +38,10 @@ xgb - Training error much lower than validation error
  - მეტრიკები: ტრენინგის/ვალიდაციის/ტესტის RMSE და მათ შორის ცდომილებები.
 
  - ლინკები -
-Linear - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/8f875aac68bb4d5a9563f1db7329c782 
-ranodm forest - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/e6956aee23a142858d64035b2cdad540
-gradient boosting - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/ed84742aa5304a858acd06f968b68a1c
-xgb - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/70ba28b7d07e4688a699cc76718c37c6
+ - Linear - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/8f875aac68bb4d5a9563f1db7329c782 
+ - ranodm forest - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/e6956aee23a142858d64035b2cdad540
+ - gradient boosting - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/ed84742aa5304a858acd06f968b68a1c
+ - xgb - https://dagshub.com/abarb22/-House-Prices---Advanced-Regression-Techniques.mlflow/#/experiments/0/runs/70ba28b7d07e4688a699cc76718c37c6
 
 
 
